@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/*tudo que é em id é : #*/
+/*tudo que é em class é : .*/
+
+body{
+    background-color: rgba(172, 255, 47, 0.445);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    color: black;
+    text-align: center;
+    background-color: aqua;
+}
+
+.secundario{
+    color: blueviolet;
+    background-color: aqua;
+}
+
+h1{
+    color: rgb(255, 0, 0);
+}
+
+h2{
+    color: rgb(255, 152, 152);
+}

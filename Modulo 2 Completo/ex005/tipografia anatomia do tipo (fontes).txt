@@ -1,0 +1,60 @@
+ESTRUTURA DAS LETRAS.
+
+1) ALTURA DAS MAIUSCULAS.
+o nome já diz tudo.
+
+2) ALTURA-X
+a letra x é o ponto de partida para a construção de todas as fontes
+- o x minusculo definira a altura de todas as outras minusculas.
+
+3) ASCENDENTE 
+altura vazado das letras minusculas para cima
+
+4) DESCENDENTE
+altura vazado das letras minusculas para baixo
+
+5) CORPO
+altura de todas as letras, somando todas as alturas, ascendente, descendente etc.
+
+6) SERIFA
+fonte facilitadora de texto, usada muito em papeis.
+
+ANATOMIAS GEOMETRICAS.
+
+HASTE
+um traço reto, uma linha erguida.
+
+ARCO
+barriga pra cima
+
+FILETE
+um filete une duas haste ou um ou mais hastes e arco
+
+ESPORÃO
+salto usado normalmente no b, percebe se que é um saltinho que segura para nao cair.
+
+VERTICE
+uma ponta, normalmente no A, percebe se que é a ponta de algo, ou um triangulo como o caso do A.
+
+TERMINAL
+elemento que não está preso em outro lugar.
+_______________________________________________
+
+ANATOMIAS HUMANIZADAS.
+
+BRAÇO
+
+PERNA
+
+PÉ
+
+ESPINHA
+
+BARRIGA
+
+OLHO
+
+ORELHA
+
+(exemplo na foto da pasta para entender melhor)
+

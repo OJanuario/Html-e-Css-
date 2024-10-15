@@ -1,0 +1,9 @@
+codigos lucidos estão aparecendo com mais clareza agora nesse percurso
+
+
+(box shadow) - sombras na borda
+(border radius) - arredondar as bordas
+(padding) - espaço para o text.
+(margin) - centralizador
+(Text shadow) - sombra no texto
+

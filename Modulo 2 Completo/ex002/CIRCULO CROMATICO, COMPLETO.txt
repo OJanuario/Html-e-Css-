@@ -1,0 +1,54 @@
+CORES Primarias : Triangulo no Circulo.
+
+CORES Secundarias : Triangulo de baixo para cima no circulo.
+
+CORES Terciarias : Pulando uma cor ao lado que escolheu EX: azul - amarelho - vermelho = então seria azul e vermelho,
+até acabar o circulo cromatico.
+
+
+
+TEMPERATURA DE CORES
+
+CORES FRIAS
+hemisferico esquerdo
+
+CORES QUENTES
+hemisferico direito
+
+
+CORES COMPLEMENTARES
+linha reta no circulo cromatico, adaptado nas cores complementares.
+
+
+CORES ANALOGAS
+cores ao lado, cores visinhas : azul, roxo e azul. uma do lado da outra, sao cores analogas.
+
+
+CORES ANALOGAS COM COMPLEMTARES
+Exemplo : Pega uma cor, escolhe as duas cores visinha e traça uma linha reta para complementar, assim seria 4 cores no site
+e pegar em qualquer lado do circulo cromatico.
+
+
+CORES ANALOGAS RELACIONADAS
+escolher uma cor, pegar uma do lado ex: direito, e pular a cor da esquerda e escolher a proxima
+EXEMPLO REAL : Escolho o azul e do lado direito tem verde e do esquerdo vermelho, pego o verde, pulo o vermelho e escolho o que 
+vem depois do vermelho.
+
+CORES INTERCALADAS
+pega uma cor, pula uma e pega a proxima, igual no exemplo acima, só que agora é de 1/1
+
+CORES TRIADICAS
+pular sempre 3 cores e pegar a outra cor.
+
+CORES QUADRADAS
+pular sempre 2 cores e pega a outra cor.
+
+CORES TRETADICAS
+Linha reta na cor que voce escolher, assim formando 4 cores.
+
+MONOCROMIA
+pegar uma cor e modificar saturação e luminosidade de qualquer cor.
+
+
+
+
