@@ -1,16 +1,5 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
-
-
-:root{
-    --fonte1: Verdana, Gevena, Tahoma, sans-serif;
-    --fonte2: 'Passion One' , cursive;
-    --fonte3: 'Sriracha' , cursive;
-}
-
 
 *{
     margin: 0px;
@@ -21,7 +10,7 @@
 html,body {
     font-family: var(--fonte1);
     min-height: 100vh;
-    background-color: darkgray;
+    background-color: rgb(0, 0, 0);
 }
 
 header {
@@ -39,6 +28,16 @@ header > h1 {
 
 header > p {
     padding-bottom: 50px;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+iframe:hover{
+    height: 500px;
+    
 }
 
 a {
@@ -78,23 +77,19 @@ section.imagem {
 
 section.imagem > p {
     width: 400px;
-    background-color: rgba(112, 112, 112, 0.116);
     text-shadow: 1px 1px 0px black;
 }
 
 section#img01{
-    background-image: url('imagens/background001.jpg');
+    background-image: url('imagens/DEPAY\ HEADER.png');
     background-position: center center;
     background-size: cover;
 }
 
 section#img02{
-    background-image: url('imagens/background002.jpg');
+    background-image: url('imagens/Memphis-Depay-no-Corinthians.png');
     background-size: cover;
-    background-position: center center;
-}
-
-section > iframe {
+    background-position: left center;
 }
 
 footer{
@@ -103,3 +98,4 @@ footer{
     color: white;
     padding: 10px;
 }
+
