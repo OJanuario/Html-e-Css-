@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tabela</title>
+    <style>
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table{
+            width: 500px;
+            border-collapse: collapse;
+        }
+
+        caption{
+            font-size: 1.5em;
+            font-weight: bolder;
+            padding: 8px;
+        }
+        
+        th,td{
+            border: 1px solid black;
+            padding: 8px;
+        }
+
+       col.cnome{
+        background-color: aquamarine;
+       }
+
+       col.csexo{
+        background-color: yellow;
+       }
+       
+       col.cidade{
+        background-color: khaki;
+       }
+
+    </style>
+</head>
+<body>
+    <table>
+        <colgroup>
+            <col class="cnome">
+            <col class="csexo" span="3"> <!--(Span) para deixar varias colunas no mesmo style.-->
+            <col class="cidade">
+            <col class="cprof">
+        </colgroup>    <!--Configuração Nova para agrupar colunas e editar cor, ou outra coisa.-->
+
+        <caption>Cadastro</caption>
+        <tr>
+            <th scope="col">Nome</th>
+            <th scope="col">Sexo</th>
+            <th scope="col">Idade</th>
+            <th scope="col">Profissão</th>
+        </tr>
+
+        <tr>
+            <td>Ana Maria</td>
+            <td>F</td>
+            <td>25</td>
+            <td>Jornalista</td>
+        </tr>
+
+        <tr>
+            <td>Cláudio</td>
+            <td>M</td>
+            <td>25</td>
+            <td>Jornalista</td>
+        </tr>
+
+        <tr>
+            <td>Gustavo</td>
+            <td>M</td>
+            <td>25</td>
+            <td>Jornalista</td>
+        </tr>
+
+        <tr>
+            <td>Hélio</td>
+            <td>M</td>
+            <td>25</td>
+            <td>Jornalista</td>
+        </tr>
+
+        <tr>
+            <td>Maria</td>
+            <td>F</td>
+            <td>25</td>
+            <td>Jornalista</td>
+        </tr>
+
+
+        <tr>
+            <td>Otavio</td>
+            <td>M</td>
+            <td>25</td>
+            <td>Jornalista</td>
+        </tr>
+
+
+    </table>
+</body>
+</html>
